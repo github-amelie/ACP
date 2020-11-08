@@ -1,2 +1,2 @@
 # ACP
-Analyse et codage d'une ACP
+Codage d'une ACP
